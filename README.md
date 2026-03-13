@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm La Quang Ninh</h1>
 
 <p align="center">
-	AI Engineer focused on Computer Vision, NLP, recommender systems, and production-ready ML workflows.
+	AI Engineer & Data Scientist focused on extracting insights from data and building production-ready ML workflows.
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 </p>
 
 ## About Me
-- Building practical AI products for real-world workflows.
-- Interested in computer vision, Vietnamese NLP, recommender systems, and MLOps.
+- Building practical AI and data products for real-world workflows.
+- Interested in data science, computer vision, Vietnamese NLP, recommender systems, and MLOps.
 - Turning research-style prototypes into portfolio-ready and deployment-ready systems.
 
 ## Tech Stack
