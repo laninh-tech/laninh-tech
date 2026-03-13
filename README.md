@@ -37,6 +37,6 @@
 
 ## GitHub Stats
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=laninh-tech&show_icons=true&hide_border=true" alt="GitHub stats" height="170" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laninh-tech&layout=compact&hide_border=true" alt="Top languages" height="170" />
+	<img src="https://github-readme-stats.vercel.app/api?username=laninh-tech&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laninh-tech&layout=compact&hide_border=true" alt="Top languages" height="165" />
 </p>
