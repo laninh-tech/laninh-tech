@@ -14,9 +14,10 @@ AI Engineer focused on Computer Vision, NLP, and production-ready ML systems.
 - Docker, GitHub Actions
 
 ## Featured repositories
-- [edge-ai-security-dashboard](https://github.com/laninh-tech/edge-ai-security-dashboard)
-- [sentiment-tracker](https://github.com/laninh-tech/sentiment-tracker)
-- [smartrec-dashboard](https://github.com/laninh-tech/smartrec-dashboard)
+- [Edge-AI-Security-Monitoring-System](https://github.com/laninh-tech/Edge-AI-Security-Monitoring-System)
+- [Vietnamese-Sentiment-Analysis-System](https://github.com/laninh-tech/Vietnamese-Sentiment-Analysis-System)
+- [Smart-Recommendation-System](https://github.com/laninh-tech/Smart-Recommendation-System)
+- [Diabetes-Health-Risk-Analysis](https://github.com/laninh-tech/Diabetes-Health-Risk-Analysis)
 
 ## Contact
 - Email: lwanih.work@gmail.com
