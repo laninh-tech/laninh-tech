@@ -7,12 +7,6 @@ AI Engineer focused on Computer Vision, NLP, and production-ready ML systems.
 - Develop edge AI and intelligent dashboard systems.
 - Work on recommendation systems and MLOps pipelines.
 
-## Tech stack
-- Python, TypeScript, SQL
-- PyTorch, Transformers, YOLOv8, TensorRT
-- FastAPI, Flask, React, Streamlit
-- Docker, GitHub Actions
-
 ## Featured repositories
 - [Edge-AI-Security-Monitoring-System](https://github.com/laninh-tech/Edge-AI-Security-Monitoring-System)
 - [Vietnamese-Sentiment-Analysis-System](https://github.com/laninh-tech/Vietnamese-Sentiment-Analysis-System)
