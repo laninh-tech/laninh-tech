@@ -36,10 +36,7 @@
 - [AI Engineer Portfolio](https://github.com/laninh-tech/AI-Engineer-Portfolio)
 
 ## GitHub Stats
-<p>
-	<img src="https://github-readme-stats.vercel.app/api?username=laninh-tech&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laninh-tech&layout=compact&hide_border=true" alt="Top languages" />
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=laninh-tech&show_icons=true&hide_border=true" alt="GitHub stats" height="170" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laninh-tech&layout=compact&hide_border=true" alt="Top languages" height="170" />
 </p>
